@@ -1,4 +1,10 @@
-<section id="hero-area" class="header-area header-eight">
+@extends('layouts.frontend.app')
+
+@section('title', 'Prosecurelabs')
+
+@section('content')
+
+    <section id="hero-area" class="header-area header-eight">
         <i class="header-bg" style="background-image: url({{ url('frontend/assets/images/top-bg-vector.svg') }});"></i>
         <div class="container">
             <div class="row align-items-end">
@@ -20,3 +26,5 @@
             </div>
         </div>
     </section>
+
+@endsection
