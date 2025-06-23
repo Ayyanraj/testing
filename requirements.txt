@@ -1,5 +1,6 @@
 requests==2.26.0
 pytest==7.1.1
-click==8.1.8
-#yjyjjggn
-#frfvsdfgh
+django==3.2.0
+numpy==1.19.5
+blinker==1.9.0
+certifi==2025.1.31
