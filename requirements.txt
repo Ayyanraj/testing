@@ -1,1 +1,6 @@
 requests==2.26.0
+pytest==7.1.1
+django==3.2.0
+numpy==1.19.5
+blinker==1.9.0
+idna==3.10
